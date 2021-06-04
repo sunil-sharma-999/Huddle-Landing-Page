@@ -22,8 +22,13 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 
 ### Screenshot
+- Desktop 1440px
+  
+  ![Desktop](./images/screenshot-desktop.png)
 
-![](./screenshot.jpg)
+- Mobile 375px
+  
+  <img src="./images/screenshot-mobile.png" width="250px">
 
 
 ### Links
